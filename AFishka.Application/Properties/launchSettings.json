@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AFishka.Application": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:4995;http://localhost:4996",
+      "dotnetRunMessages": true
+    }
+  }
+}
